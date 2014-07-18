@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- File: app/phpunit.xml.dist -->
+
+<!-- http://phpunit.de/manual/current/en/appendixes.configuration.html -->
+<phpunit
+    backupGlobals="false"
+    colors="true"
+    syntaxCheck="false"
+    bootstrap="../vendor/autoload.php">
+
+    <testsuites>
+        <testsuite name="Functional Test Suite">
+            <directory>../src/Knight/ApplicationBundle/Tests</directory>
+        </testsuite>
+    </testsuites>
+
+</phpunit>
