@@ -1,0 +1,7 @@
+# File: app/config/routing.yml
+ni:
+    path: /api/ni
+    methods:
+        - POST
+    defaults:
+        _controller: KnightApplicationBundle:Api:ni
