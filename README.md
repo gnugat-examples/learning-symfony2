@@ -17,7 +17,7 @@ At the end of each article, I've created a tag in this repository:
 * [4: Controllers](https://github.com/gnugat/learning-symfony2/tree/4-controllers)
   (Here's [the article](http://gnugat.github.io/2014/07/12/learn-sf2-controllers-part-4.html))
 * [5: Tests](https://github.com/gnugat/learning-symfony2/tree/5-tests)
-  (Here's [the article](http://gnugat.github.io/2014/07/18/learn-sf2-tests-part-5.html))
+  (Here's [the article](http://gnugat.github.io/2014/07/20/learn-sf2-tests-part-5.html))
 
 You can clone this repository and go to the tag corresponding to the article you read:
 

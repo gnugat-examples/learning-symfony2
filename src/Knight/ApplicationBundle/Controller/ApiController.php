@@ -13,7 +13,7 @@ class ApiController extends Controller
     public function niAction(Request $request)
     {
         $postedContent = $request->getContent();
-        $postedValues = json_decode($postedContent);
+        $postedValues = json_decode($postedContent, true);
 
         $answer = array('answer' => 'Ecky-ecky-ecky-ecky-pikang-zoop-boing-goodem-zoo-owli-zhiv');
         $statusCode = Response::HTTP_OK;
