@@ -1,7 +1,7 @@
 <?php
 // File: src/Knight/ApplicationBundle/Tests/Controller/ApiControllerTest.php
 
-namespace TempoSimple\Test\Functional\Web;
+namespace Knight\ApplicationBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 use Symfony\Component\HttpFoundation\Response;
